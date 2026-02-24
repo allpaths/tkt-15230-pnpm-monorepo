@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "@mui/x-date-pickers": "5.0.20",
+    "@mui/x-date-pickers": "8.11.0",
     "dayjs": "^1.11.10"
   },
   "peerDependencies": {

@@ -1,0 +1,13 @@
+{
+  "name": "@tkt15230/ui-lib",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@mui/x-date-pickers": "5.0.20",
+    "dayjs": "^1.11.10"
+  },
+  "peerDependencies": {
+    "@mui/material": "^5.16.0",
+    "react": "^18.2.0"
+  }
+}
